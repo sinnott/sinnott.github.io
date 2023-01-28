@@ -1,2 +1,4 @@
-# sinnott.github.io
-Personal website
+# Sinnott Murphy
+
+Hello!
+
